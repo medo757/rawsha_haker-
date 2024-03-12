@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd ASDO
+screen -S ASDO -X kill
+screen -S ASDO ./RmAu
